@@ -1,0 +1,4 @@
+hashing
+One searches sequentially inside the hash table.
+
+Quadratic probing: One searches quadratically inside the hash table.
